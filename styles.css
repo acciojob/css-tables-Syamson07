@@ -2,11 +2,5 @@
 th, td {
             border: 2px solid #ddd;
             padding: 10px;
-            border-radius: 8px;
+            border-radius: 5px;
         }
-#4{
-	background-color:gray;
-}
-#2{
-	background-color:gray;
-}
